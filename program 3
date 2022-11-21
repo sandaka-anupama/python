@@ -1,0 +1,9 @@
+/*Multiplication*/
+a=int(input())
+b=int(input())
+c=a*b
+print(c)
+output:
+20
+30
+600
