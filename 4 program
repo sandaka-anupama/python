@@ -1,0 +1,10 @@
+/*Division*/
+a=int(input())
+b=int(input())
+c=a/b
+print(c)
+output:
+=== RESTART: C:/Users/S ANUPAMA/AppData/Local/Programs/Python/Python311/p1.py ==
+40
+20
+2.0
